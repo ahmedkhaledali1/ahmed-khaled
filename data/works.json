@@ -1,0 +1,46 @@
+[
+  {
+    "photo": "/assets/imgs/works/nija.png",
+    "title": "NaijaSpider (Nigeria Marketplace)",
+    "subTitle": "Live",
+    "link": "https://naijaspider.com/",
+    "delay": ".6"
+  },
+  {
+    "photo": "/assets/imgs/works/solidirty.png",
+    "title": "Egyptian ministry of solidarity",
+    "subTitle": "Live",
+    "link": "https://ngogiza.com/en",
+    "delay": "1.2"
+  },
+  {
+    "photo": "/assets/imgs/works/infolio.png",
+    "title": "Infolio",
+    "subTitle": "Live",
+    "link": "https://infolio-nextjs.vercel.app/",
+    "delay": ".4"
+  },
+
+  {
+    "photo": "/assets/imgs/works/funnelio.png",
+    "title": "Funnelio",
+    "subTitle": "Live",
+    "link": "https://funnelio-nextjs.vercel.app/",
+    "delay": ".4"
+  },
+  {
+    "photo": "/assets/imgs/works/tweeter.png",
+    "title": "Social Media ",
+    "subTitle": "Live",
+    "link": "https://twitter-dun-pi.vercel.app/",
+    "delay": ".2"
+  },
+
+  {
+    "photo": "/assets/imgs/works/dashboard.png",
+    "title": "Management System",
+    "subTitle": "Live",
+    "link": "https://worker-dashboard.vercel.app/dashboard",
+    "delay": "1.0"
+  }
+]

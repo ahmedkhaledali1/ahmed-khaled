@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "data",
+		"path": "../gavi/src/data"
+	},
+	{
+		"name": "gilb_next",
+		"path": "."
+	}
+],
+  "settings": {}
+}

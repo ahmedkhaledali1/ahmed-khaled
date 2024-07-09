@@ -1,0 +1,22 @@
+[
+  {
+    "photo": "/assets/imgs/resume/react.png",
+    "title": "Reactjs",
+    "persent": "100%"
+  },
+  {
+    "photo": "/assets/imgs/resume/Next.png",
+    "title": "Nextjs",
+    "persent": "100%"
+  },
+  {
+    "photo": "/assets/imgs/resume/node.png",
+    "title": "Nodejs",
+    "persent": "100%"
+  },
+  {
+    "photo": "/assets/imgs/resume/express.png",
+    "title": "Expressjs",
+    "persent": "100%"
+  }
+]
