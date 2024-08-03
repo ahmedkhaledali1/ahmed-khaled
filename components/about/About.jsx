@@ -85,7 +85,25 @@ function Aboutc() {
                         </div>
                         <div>
                           <span className="opacity-7 mb-5">Email Us</span>
-                          <h6>ahmed.khaled01233@gmail.com</h6>
+                          <button
+                            style={{
+                              background: 'transparent',
+                              color: 'white',
+                              border: 'none',
+                              outline: 'none',
+                              overflow: 'auto',
+                              overflowWrap: 'break-word',
+                              Width: '200px',
+                              display: 'flex',
+                              flexWrap: 'wrap',
+                              whiteSpace: 'normal',
+                              wordWrap: 'break-word',
+                              wordBreak: 'break-all',
+                            }}
+                            className="email"
+                          >
+                            ahmed.khaled01233@gmail.com
+                          </button>
                         </div>
                       </div>
                     </div>

@@ -33,13 +33,14 @@ function Header() {
               </div>
               <div className="mt-50">
                 <a
-                  href="#0"
+                  href="/Ahmed_Khaled_Frontend_Developer.pdf"
                   className="butn butn-md butn-bg bg-white text-dark radius-5"
+                  download={true}
                 >
                   <span>Dwonload CV</span>
                 </a>
                 <a
-                  href="#0"
+                  href="/Ahmed_Khaled_Frontend_Developer.pdf"
                   className="butn butn-md butn-bord radius-5 ml-15"
                   data-scroll-nav="5"
                 >

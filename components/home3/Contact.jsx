@@ -40,7 +40,23 @@ function Contact() {
                 </div>
                 <div className="ml-auto">
                   <h4>
-                    <a href="mailto:ahmed.khaled01233@gmail.com">
+                    <a
+                      style={{
+                        background: 'transparent',
+                        color: 'white',
+                        border: 'none',
+                        outline: 'none',
+                        overflow: 'auto',
+                        overflowWrap: 'break-word',
+                        Width: '200px',
+                        display: 'flex',
+                        flexWrap: 'wrap',
+                        whiteSpace: 'normal',
+                        wordWrap: 'break-word',
+                        wordBreak: 'break-all',
+                      }}
+                      href="mailto:ahmed.khaled01233@gmail.com"
+                    >
                       ahmed.khaled01233@gmail.com
                     </a>
                   </h4>

@@ -64,7 +64,10 @@ function Links() {
               <a href="#0" className="inf-butn" data-scroll-nav="4">
                 <span>Contact Us</span>
               </a>
-              <a href="#0" className="inf-butn">
+              <a
+                href="/Ahmed_Khaled_Frontend_Developer.pdf"
+                className="inf-butn"
+              >
                 <span>Dwonload CV</span>
               </a>
             </div>

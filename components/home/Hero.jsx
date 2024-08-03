@@ -19,7 +19,7 @@ function Hero() {
                         </h6>
                       </div>
                       <div className="text-center mt-30">
-                        <a href="#0">
+                        <a href="/Ahmed_Khaled_Frontend_Developer.pdf">
                           <svg
                             className="arrow-down"
                             xmlns="http://www.w3.org/2000/svg"
@@ -147,9 +147,8 @@ function Hero() {
                   <span>Contact Us</span>
                 </a>
                 <a
-                  href="/Ahmed_Front_End_developer"
+                  href="/Ahmed_Khaled_Frontend_Developer.pdf"
                   className="inf-butn"
-                  download={true}
                 >
                   <span>Dwonload CV</span>
                 </a>
@@ -181,7 +180,7 @@ function Hero() {
                   <div className="ml-auto">
                     <div className="butn-presv">
                       <a
-                        href="/contact"
+                        href="/Ahmed_Khaled_Frontend_Developer.pdf"
                         className="butn butn-md butn-bord radius-5 skew"
                       >
                         <span>Hire Me!</span>
