@@ -19,7 +19,10 @@ function Hero() {
                         </h6>
                       </div>
                       <div className="text-center mt-30">
-                        <a href="/Ahmed_Khaled_Frontend_Developer.pdf">
+                        <a
+                          download={true}
+                          href="/Ahmed_Khaled_Frontend_Developer.pdf"
+                        >
                           <svg
                             className="arrow-down"
                             xmlns="http://www.w3.org/2000/svg"
