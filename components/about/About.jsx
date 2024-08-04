@@ -34,7 +34,7 @@ function Aboutc() {
                 <h4 className="mb-30">
                   I am Ahmed Khaled
                   <span className="main-color">
-                    Full-stack developer (Reactjs, Vuejs, Nodejs)
+                    Full-stack developer (Reactjs, Nodejs)
                   </span>{' '}
                 </h4>
                 <p>

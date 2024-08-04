@@ -21,9 +21,9 @@ function About() {
             </h1>
             <p className="text">
               As a Full-Stack Developer with tow years of experience, I have
-              successfully implemented featured projects using Reactjs, vuejs
-              and nodejs. I specialize in Nextjs at creating responsive designs
-              and delivering real projects.
+              successfully implemented featured projects using Reactjs and
+              nodejs. I specialize in Nextjs at creating responsive designs and
+              delivering real projects.
             </p>
           </div>
         </div>
