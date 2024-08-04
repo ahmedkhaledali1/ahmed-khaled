@@ -131,14 +131,14 @@ function Hero() {
                   <h4 className="fw-500">Hi, I am Ahmed Khaled</h4>
                 </div>
                 <div className="social mt-20">
-                  <a href="#0" className="icon">
+                  <a
+                    href="https://www.linkedin.com/in/ahmed-khaled-8b0a52251/"
+                    className="icon"
+                  >
                     <i className="fab fa-linkedin-in"></i>
                   </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-behance"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-dribbble"></i>
+                  <a href="https://github.com/ahmedkhaledali1" className="icon">
+                    <i className="fab fa-github"></i>
                   </a>
                 </div>
               </div>
